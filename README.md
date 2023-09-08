@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Python, NodeJS, ReactJS**
+- 🌱 I’m currently learning **NodeJS, ReactJS**
 
 - 🧑🏻‍💻 All of my projects videos at [https://www.youtube.com/@CodeHundreds/videos](https://www.youtube.com/@CodeHundreds/videos)
 
