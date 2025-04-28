@@ -26,7 +26,7 @@ Welcome to my GitHub profile!
 - Keep leveling up every single day!
 
 ## 📫 How to reach me
-- 📧 Email: fuadhasan.web@gmail.com
+- 📧 Email: fuadhasan3503@gmail.com
 - 💬 LinkedIn: https://www.linkedin.com/in/fuad05/
 
 ## 🧠 Fun Fact
