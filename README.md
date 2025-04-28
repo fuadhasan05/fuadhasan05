@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Images/Linkedln Cover (1).png" alt="Banner" />
+  <img src="/Images/github-cover.png" alt="Banner" />
 </p>
 
 
