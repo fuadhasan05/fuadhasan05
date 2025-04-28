@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/BHJpRTYz/Linkedln-Cover-1.png" alt="Banner" />
+  <img src="/Images/Linkedln Cover (1).png" alt="Banner" />
 </p>
 
 
