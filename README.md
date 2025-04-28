@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/fV24bFck/Linkedln-Cover.png" alt="Banner" />
+  <img src="https://i.ibb.co.com/BHJpRTYz/Linkedln-Cover-1.png" alt="Banner" />
 </p>
-
 
 # 👋 Hi there, I'm Fuad Hasan!
 
