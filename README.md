@@ -8,9 +8,9 @@
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
-- 🌱 I'm currently growing as a **Front-End Developer | Aspiring AI Engineer | Cybersecurity Enthusiast**
-- 🔥 Passionate about building interactive web apps and smart AI agents
-- 🛡️ Also diving deep into the world of cybersecurity
+- 🌱 I'm currently growing as a **Front-End Developer**
+- 🔥 Passionate about building interactive web apps 
+- 🛡️ Also diving deep into the world of AI
 - 📚 Always learning, always improving
 
 ## 🛠️ Technologies & Tools
@@ -21,7 +21,6 @@ Welcome to my GitHub profile!
 
 ## 📈 Current Goals
 - Master AI engineering concepts and build intelligent applications
-- Strengthen cybersecurity skills
 - Contribute to open-source projects
 - Keep leveling up every single day!
 
