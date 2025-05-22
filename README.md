@@ -8,9 +8,8 @@
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
-- 🌱 I'm currently growing as a **Front-End Developer | Aspiring AI Engineer | Cybersecurity Enthusiast**
-- 🔥 Passionate about building interactive web apps and smart AI agents
-- 🛡️ Also diving deep into the world of cybersecurity
+- 🌱 I'm currently growing as a **Front-End Developer**
+- 🔥 Passionate about building interactive web apps
 - 📚 Always learning, always improving
 
 ## 🛠️ Technologies & Tools
