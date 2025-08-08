@@ -4,7 +4,8 @@
 
 # 👋 Hi there, I'm Fuad Hasan!
 
-*MERN Stack Developer ·  Aspiring AI Engineer*
+**MERN Stack Developer ·  Aspiring AI Engineer**
+---
 **📍 Location:** Rajshahi, Bangladesh  
 **📧 Email:** fuadhasan.web@gmail.com  
 **📞 WhatsApp:** [+8801616662095](https://wa.me/8801616662095)
