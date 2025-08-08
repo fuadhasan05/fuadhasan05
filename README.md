@@ -5,6 +5,9 @@
 # 👋 Hi there, I'm Fuad Hasan!
 
 *MERN Stack Developer ·  Aspiring AI Engineer*
+**📍 Location:** Rajshahi, Bangladesh  
+**📧 Email:** fuadhasan.web@gmail.com  
+**📞 WhatsApp:** [+8801616662095](https://wa.me/8801616662095)
 
 ---
 
@@ -47,12 +50,6 @@ I'm a dedicated MERN stack developer focused on building responsive, user-friend
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=ai&logoColor=white&style=for-the-badge)
-
----
-
-## 📫 Let’s Connect
-- 📧 Email: **fuadhasan.web@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/fuad05/)
 
 
 ---
