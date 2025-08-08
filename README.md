@@ -4,7 +4,8 @@
 
 # 👋 Hi there, I'm Fuad Hasan!
 
-### 📫 Reach me out
+## 📫 Reach me out
+<br />
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fuadhasan05)
@@ -13,7 +14,8 @@
 
 </div>
 
-### 📊 Stats & Activity
+## 📊 Stats & Activity
+<br />
 
 <div align="center">
 
@@ -25,7 +27,8 @@
 
 </div>
 
-### ✨ Tech Stack I Use & Love 🚀
+## 💻 Tech Stack I Use & Love 
+<br />
 <div align="center">
 
 <!-- Row 1 -->
@@ -37,16 +40,16 @@
 </div>
 
 
-### 🚀 About Me
+## 🚀 About Me
 I'm a dedicated MERN stack developer focused on building responsive, user-friendly web applications. I’m transitioning into AI engineering while strengthening my cybersecurity knowledge. I enjoy turning ideas into production-ready projects and learning new tools every day.
 
-### 🔭 Current Activities
+## 🔭 Current Activities
 - 🌐 Exploring **Next.js** and advanced React techniques  
 - 🏝️ Building a **comprehensive building management system** (frontend + API integration)  
 - 🤖 Studying **AI Agent Development** and **Python** for ML prototyping  
 
 
-### 🎯 Current Goals
+## 🎯 Current Goals
 - 🔎 Deepen knowledge in AI & ML, and build intelligent applications  
 - 🤝 Contribute to meaningful open-source projects  
 - 🚀 Grow every day as a full-stack developer and AI enthusiast
